@@ -14,7 +14,7 @@ Building secure, scalable & modern digital solutions.
 
 <!-- Primary Navigation -->
 <p>
-  <a href="https://ciphervivek.com" target="_blank">
+  <a href="https://vivekverma.me" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-0f172a?style=for-the-badge&logo=firefox-browser&logoColor=ffffff" />
   </a>
   <a href="https://zioraglobal.com" target="_blank">
@@ -26,10 +26,10 @@ Building secure, scalable & modern digital solutions.
   <a href="https://github.com/mrvivekverma" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=ffffff" />
   </a>
-  <a href="https://instagram.com/vivekvermaceo" target="_blank">
+  <a href="https://instagram.com/heyvivekverma" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E1306C?style=for-the-badge&logo=instagram&logoColor=ffffff" />
   </a>
-  <a href="https://x.com/VivekVermaCEO" target="_blank">
+  <a href="https://x.com/heyvivekverma" target="_blank">
     <img src="https://img.shields.io/badge/X-0f172a?style=for-the-badge&logo=x&logoColor=ffffff" />
   </a>
 </p>
