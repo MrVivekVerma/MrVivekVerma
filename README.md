@@ -49,8 +49,8 @@ I love building products that combine **clean UI**, **high performance**, and **
 - 🌐 I craft **WordPress & custom websites** that feel fast, minimal and intentional  
 - 🛡️ Passionate about **ethical hacking, web security & automation**  
 - 🧠 Constantly learning: Advanced Web & App Dev, OSINT, system design & security  
-- ✍️ I write and share my work at **[ciphervivek.com](https://ciphervivek.com)**  
-- 📩 Reach me: **hi@ciphervivek.com**
+- ✍️ I write and share my work at **[vivekverma.me](https://vivekverma.me)**  
+- 📩 Reach me: **hi@vivekverma.me**
 
 > I don't just build websites — I build systems that last.
 
@@ -119,7 +119,7 @@ I love building products that combine **clean UI**, **high performance**, and **
 ## 🌟 Featured Work  
 
 - 🧨 **CipherVivek** – Personal tech & security blog  
-  ➜ [https://ciphervivek.com](https://ciphervivek.com)
+  ➜ [https://vivekverma.me](https://vivekverma.me)
 
 - 🧩 **Ziora Global** – Digital solutions studio (web, app, branding)  
   ➜ [https://zioraglobal.com](https://zioraglobal.com)
@@ -131,19 +131,19 @@ I love building products that combine **clean UI**, **high performance**, and **
 ## 🌍 Connect With Me  
 
 <p align="center">
-  <a href="https://ciphervivek.com" target="_blank">
+  <a href="https://vivekverma.me" target="_blank">
     <img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=firefox-browser&logoColor=ffffff" />
   </a>
   <a href="https://zioraglobal.com" target="_blank">
     <img src="https://img.shields.io/badge/Ziora%20Global-0369a1?style=for-the-badge&logo=vercel&logoColor=ffffff" />
   </a>
-  <a href="https://instagram.com/vivekvermaceo" target="_blank">
+  <a href="https://instagram.com/heyvivekverma" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=ffffff" />
   </a>
-  <a href="https://facebook.com/vivekvermaceo" target="_blank">
+  <a href="https://facebook.com/heyvivekverma" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=ffffff" />
   </a>
-  <a href="https://x.com/VivekVermaCEO" target="_blank">
+  <a href="https://x.com/heyvivekverma" target="_blank">
     <img src="https://img.shields.io/badge/X-020617?style=for-the-badge&logo=x&logoColor=ffffff" />
   </a>
   <a href="https://www.linkedin.com/in/mrvivekverma" target="_blank">
@@ -158,8 +158,8 @@ I love building products that combine **clean UI**, **high performance**, and **
 
 ## 📫 Contact  
 
-- 📧 Email: **hi@ciphervivek.com**  
-- 🌐 Portfolio: **[ciphervivek.com](https://ciphervivek.com)**  
+- 📧 Email: **hi@vivekverma.me**  
+- 🌐 Portfolio: **[vivekverma.me](https://vivekverma.me)**  
 
 ---
 
